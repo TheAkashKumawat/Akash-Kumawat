@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5Y2l0am1jOTlhcHgxYTIybGx3aGNvczZ6MHprcDdwZ2IybW1kbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakashkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="theakashkumawat" /> </p>
